@@ -1,4 +1,4 @@
-module github.com/nix-community/gomod2nix
+module github.com/hernad/gomod2nix
 
 go 1.22.0
 
