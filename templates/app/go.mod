@@ -1,3 +1,3 @@
-module example.com/gomod2nix-template
+module github.com/hernad/gomod2nix/templates/app
 
-go 1.17
+go 1.22.0
